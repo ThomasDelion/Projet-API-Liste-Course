@@ -1,3 +1,3 @@
 # Projet-API-Liste-Course
 
-Voici l'api d'authentification ainsi que j'ai réalisé. Ma liste de course est utilisé avec ionic en Vue.
+Here is the authentication API as I made it. My shopping list is used with ionic in Vue.
